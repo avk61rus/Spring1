@@ -9,7 +9,7 @@ Search
 Sign in
 Sign up
 github
-/
+
 gitignore
 Public
 Code
@@ -81,6 +81,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+lesson1-servlet-api/target
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
