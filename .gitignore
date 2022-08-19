@@ -83,6 +83,7 @@ cmake-build-*/
 out/
 lesson1-servlet-api/target
 
+
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
